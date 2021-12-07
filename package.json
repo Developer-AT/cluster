@@ -1,0 +1,23 @@
+{
+  "name": "node_cluster",
+  "version": "1.0.0",
+  "description": "Clustering in NodeJs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Developer-AT/cluster.git"
+  },
+  "author": "Abhishek Tyagi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Developer-AT/cluster/issues"
+  },
+  "homepage": "https://github.com/Developer-AT/cluster#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
